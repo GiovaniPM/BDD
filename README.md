@@ -2,10 +2,10 @@
 
 ||Código|Exemplo|
 |------ |------ |------ |
-|unordered|```<ul><li>um</li><li>dois</li></ul>```|<ul><li>um</li><li>dois</li></ul>|
-|ordered|```<ol><li>um</li><li>dois</li></ol>```|<ol><li>um</li><li>dois</li></ol>|
-|unordered<br>levels|```<ul><li>um</li><ul><li>um</li><li>dois</li></ul><li>dois</li></ul>```|<ul><li>um</li><ul><li>um</li><li>dois</li></ul><li>dois</li></ul>|
-|unordered<br>levels|```<ul><li>um</li><ul><li>um</li><ul><li>um</li><li>dois</li></ul><li>dois</li></ul><li>dois</li></ul>```|<ul><li>um</li><ul><li>um</li><ul><li>um</li><li>dois</li></ul><li>dois</li></ul><li>dois</li></ul>|
-|ordered<br>levels|```<ol><li>um</li><ol><li>um</li><li>dois</li></ol><li>dois</li></ol>```|<ol><li>um</li><ol><li>um</li><li>dois</li></ol><li>dois</li></ol>|
-|mixed<br>levels|```<ul><li>um</li><ol><li>um</li><li>dois</li></ol><li>dois</li></ul>```|<ul><li>um</li><ol><li>um</li><li>dois</li></ol><li>dois</li></ul>|
-|mixed<br>levels|```<ol><li>um</li><ul><li>um</li><li>dois</li></ul><li>dois</li></ol>```|<ol><li>um</li><ul><li>um</li><li>dois</li></ul><li>dois</li></ol>|
+|unordered|```<ul><li>item 1</li><li>item 2</li></ul>```|<ul><li>item 1</li><li>item 2</li></ul>|
+|ordered|```<ol><li>item 1</li><li>item 2</li></ol>```|<ol><li>item 1</li><li>item 2</li></ol>|
+|unordered<br>levels|```<ul><li>item 1</li><ul><li>item 1.1</li><li>item 1.2</li></ul><li>item 2</li></ul>```|<ul><li>item 1</li><ul><li>item 1.1</li><li>item 1.2</li></ul><li>item 2</li></ul>|
+|unordered<br>levels|```<ul><li>item 1</li><ul><li>item 1.1</li><ul><li>item 1.1.1</li><li>item 1.1.2</li></ul><li>item 1.2</li></ul><li>item 2</li></ul>```|<ul><li>item 1</li><ul><li>item 1.1</li><ul><li>item 1.1.1</li><li>item 1.1.2</li></ul><li>item 1.2</li></ul><li>item 2</li></ul>|
+|ordered<br>levels|```<ol><li>item 1</li><ol><li>item 1</li><li>item 2</li></ol><li>item 2</li></ol>```|<ol><li>item 1</li><ol><li>item 1.1</li><li>item 1.2</li></ol><li>item 2</li></ol>|
+|mixed<br>levels|```<ul><li>item 1</li><ol><li>item 1.1</li><li>item 1.2</li></ol><li>item 2</li></ul>```|<ul><li>item 1</li><ol><li>item 1.1</li><li>item 1.2</li></ol><li>item 2</li></ul>|
+|mixed<br>levels|```<ol><li>item 1</li><ul><li>item 1.1</li><li>item 1.2</li></ul><li>item 2</li></ol>```|<ol><li>item 1</li><ul><li>item 1.1</li><li>item 1.2</li></ul><li>item 2</li></ol>|
